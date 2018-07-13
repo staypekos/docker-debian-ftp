@@ -1,4 +1,4 @@
-# debian-git
-A minimal docker container with debian and git.
+# debian-ftp
+A minimal docker container with debian, git, git-ftp and lftp.
 
-[![docker](http://dockeri.co/image/samueldebruyn/debian-git "docker")](https://registry.hub.docker.com/u/samueldebruyn/debian-git/)
+[![docker](http://dockeri.co/image/vzsjablonec/debian-ftp "docker")](https://registry.hub.docker.com/u/vzsjablonec/debian-ftp/)
